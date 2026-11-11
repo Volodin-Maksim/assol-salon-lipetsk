@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-10T15:30:07.228Z",
+  "pages": [
+    {
+      "width": 360,
+      "overflow": false,
+      "prices": true,
+      "reviews": true,
+      "review_controls": true,
+      "reduced_motion": true,
+      "telephone": true,
+      "map_id": true,
+      "walking_route": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "prices": true,
+      "reviews": true,
+      "review_controls": true,
+      "reduced_motion": true,
+      "telephone": true,
+      "map_id": true,
+      "walking_route": true,
+      "errors": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "prices": true,
+      "reviews": true,
+      "review_controls": true,
+      "reduced_motion": true,
+      "telephone": true,
+      "map_id": true,
+      "walking_route": true,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "prices": true,
+      "reviews": true,
+      "review_controls": true,
+      "reduced_motion": true,
+      "telephone": true,
+      "map_id": true,
+      "walking_route": true,
+      "errors": []
+    }
+  ],
+  "autoplay": true,
+  "pause": true,
+  "source": "Verified Yandex organization 1209085669",
+  "mapTesting": "Official live Yandex iframe loaded and verified in Chromium via environment proxy; complete page screenshots at 390 and 1440 include live map.",
+  "mapLive": {
+    "status": 200,
+    "organization": "Ассоль",
+    "address": "Липецк, улица Бунина, 10",
+    "phone": "+7 (904) 691-88-51",
+    "verifiedInChromium": true,
+    "screens": [
+      390,
+      1440
+    ],
+    "tileResponsesHTTP200": true,
+    "note": "Initial tile requests were cancelled during map initialization; subsequent tiles returned HTTP 200. GPU warnings are specific to headless software rendering."
+  }
+}

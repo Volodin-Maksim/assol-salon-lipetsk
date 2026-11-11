@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-10T15:00:37.280Z",
+  "checks": [
+    {
+      "width": 360,
+      "loaded": true,
+      "current": "https://lune.test/assets/hero-mobile.webp?v=portrait2",
+      "natural": [
+        600,
+        900
+      ],
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "loaded": true,
+      "current": "https://lune.test/assets/hero-mobile.webp?v=portrait2",
+      "natural": [
+        600,
+        900
+      ],
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "width": 768,
+      "loaded": true,
+      "current": "https://lune.test/assets/hero.webp?v=portrait2",
+      "natural": [
+        1672,
+        941
+      ],
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "loaded": true,
+      "current": "https://lune.test/assets/hero.webp?v=portrait2",
+      "natural": [
+        1672,
+        941
+      ],
+      "overflow": false,
+      "errors": []
+    }
+  ],
+  "notes": "Image-only update; previous Lighthouse report is retained as a historical audit."
+}

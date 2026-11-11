@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-11T15:15:09.756Z",
+  "stage": "Local checks completed before GitHub Pages deployment.",
+  "scope": "GitHub Pages subpath compatibility, not a live GitHub deployment",
+  "results": [
+    {
+      "width": 390,
+      "subpathAssets": true,
+      "formOpens": true,
+      "masterAnastasia": true,
+      "reviewsAutoplay": true,
+      "retinaCanvas": false,
+      "allImages": true,
+      "noOverflow": true,
+      "missingFiles": [],
+      "pageErrors": []
+    },
+    {
+      "width": 1440,
+      "subpathAssets": true,
+      "formOpens": true,
+      "masterAnastasia": true,
+      "reviewsAutoplay": true,
+      "retinaCanvas": true,
+      "allImages": true,
+      "noOverflow": true,
+      "missingFiles": [],
+      "pageErrors": []
+    }
+  ]
+}

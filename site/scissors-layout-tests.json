@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-11T14:49:43.228Z",
+  "scope": "Only canvas display sizing changed; model, camera, materials, motion and hero card location preserved.",
+  "results": [
+    {
+      "dpr": 1,
+      "initial": {
+        "dpr": 1,
+        "host": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "canvas": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "buffer": {
+          "width": 148,
+          "height": 142
+        },
+        "rightWithinCard": true,
+        "bottomBeforeText": true
+      },
+      "resizeWidths": [
+        1024,
+        768,
+        1440
+      ],
+      "pointerExtremes": true,
+      "pauseResume": true,
+      "offscreenPause": true,
+      "reducedMotionDisposesToFallback": true
+    },
+    {
+      "dpr": 1.25,
+      "initial": {
+        "dpr": 1.25,
+        "host": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "canvas": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "buffer": {
+          "width": 185,
+          "height": 177
+        },
+        "rightWithinCard": true,
+        "bottomBeforeText": true
+      },
+      "resizeWidths": [
+        1024,
+        768,
+        1440
+      ],
+      "pointerExtremes": true,
+      "pauseResume": true,
+      "offscreenPause": true,
+      "reducedMotionDisposesToFallback": true
+    },
+    {
+      "dpr": 1.5,
+      "initial": {
+        "dpr": 1.5,
+        "host": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "canvas": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "buffer": {
+          "width": 222,
+          "height": 213
+        },
+        "rightWithinCard": true,
+        "bottomBeforeText": true
+      },
+      "resizeWidths": [
+        1024,
+        768,
+        1440
+      ],
+      "pointerExtremes": true,
+      "pauseResume": true,
+      "offscreenPause": true,
+      "reducedMotionDisposesToFallback": true
+    },
+    {
+      "dpr": 2,
+      "initial": {
+        "dpr": 2,
+        "host": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "canvas": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "buffer": {
+          "width": 222,
+          "height": 213
+        },
+        "rightWithinCard": true,
+        "bottomBeforeText": true
+      },
+      "resizeWidths": [
+        1024,
+        768,
+        1440
+      ],
+      "pointerExtremes": true,
+      "pauseResume": true,
+      "offscreenPause": true,
+      "reducedMotionDisposesToFallback": true
+    },
+    {
+      "dpr": 3,
+      "initial": {
+        "dpr": 3,
+        "host": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "canvas": {
+          "x": 1236.53125,
+          "y": 221,
+          "width": 148,
+          "height": 142
+        },
+        "buffer": {
+          "width": 222,
+          "height": 213
+        },
+        "rightWithinCard": true,
+        "bottomBeforeText": true
+      },
+      "resizeWidths": [
+        1024,
+        768,
+        1440
+      ],
+      "pointerExtremes": true,
+      "pauseResume": true,
+      "offscreenPause": true,
+      "reducedMotionDisposesToFallback": true
+    }
+  ],
+  "mobileWidths": [
+    360,
+    390
+  ],
+  "initialReducedMotionStatic": true,
+  "pageErrors": []
+}

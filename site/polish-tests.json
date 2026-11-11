@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-10T16:16:48.252Z",
+  "viewportTests": [
+    {
+      "width": 360,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    }
+  ],
+  "autoplay_single_card": true,
+  "pause": true,
+  "scroll_animation": true,
+  "unconfigured_receiver_disclosed": true,
+  "pageErrors": [],
+  "delivery": "Mock receiver only; no test client personal data sent to Google. Live Apps Script deployment URL is required."
+}

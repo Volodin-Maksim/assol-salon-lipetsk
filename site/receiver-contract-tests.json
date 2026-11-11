@@ -1,0 +1,14 @@
+{
+  "tests": {
+    "name": true,
+    "phone": true,
+    "consent": true,
+    "past_date": true,
+    "public_sheet_blocked": true,
+    "append_contract": true,
+    "formula_injection_guard": true,
+    "idempotency": true,
+    "target_sheet_pinned": true
+  },
+  "mode": "Apps Script API objects mocked in Node VM; no real Google writes or deployment performed."
+}

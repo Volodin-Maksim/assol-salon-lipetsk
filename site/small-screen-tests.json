@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-10T20:06:04.851Z",
+  "results": [
+    {
+      "viewport": {
+        "width": 360,
+        "height": 640
+      },
+      "steps": [
+        {
+          "height": 386,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 630,
+          "footerBottom": 613,
+          "window": 640
+        },
+        {
+          "height": 386,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 630,
+          "footerBottom": 613,
+          "window": 640
+        },
+        {
+          "height": 386,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 630,
+          "footerBottom": 613,
+          "window": 640
+        },
+        {
+          "height": 386,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 630,
+          "footerBottom": 613,
+          "window": 640
+        }
+      ],
+      "consentVisible": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 667
+      },
+      "steps": [
+        {
+          "height": 375,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 657,
+          "footerBottom": 636,
+          "window": 667
+        },
+        {
+          "height": 375,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 657,
+          "footerBottom": 636,
+          "window": 667
+        },
+        {
+          "height": 375,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 657,
+          "footerBottom": 636,
+          "window": 667
+        },
+        {
+          "height": 375,
+          "overflow": false,
+          "dialogTop": 10,
+          "dialogBottom": 657,
+          "footerBottom": 636,
+          "window": 667
+        }
+      ],
+      "consentVisible": true
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 640
+      },
+      "steps": [
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        },
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        },
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        },
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        }
+      ],
+      "consentVisible": true
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 640
+      },
+      "steps": [
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        },
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        },
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        },
+        {
+          "height": 382,
+          "overflow": false,
+          "dialogTop": 16,
+          "dialogBottom": 624,
+          "footerBottom": 607,
+          "window": 640
+        }
+      ],
+      "consentVisible": true
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-10T20:07:13.276Z",
+  "viewportTests": [
+    {
+      "width": 360,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "logo": true,
+      "one_review": true,
+      "form_validation": true,
+      "full_flow_with_mock_receiver": true,
+      "failure_not_success": true,
+      "retry_id_preserved": true,
+      "keyboard": true
+    }
+  ],
+  "autoplay_single_card": true,
+  "no_visible_pause_button": true,
+  "reading_focus_stops_rotation": true,
+  "scroll_animation": true,
+  "unconfigured_receiver_disclosed": true,
+  "pageErrors": [],
+  "delivery": "Mock receiver only; no test client personal data sent to Google. Provided Apps Script URL still redirects to Google sign-in; no anonymous receiver available.",
+  "review_resize_after_fonts": true,
+  "enlarged_active_card": true,
+  "reduced_motion_stops_autoplay": true
+}

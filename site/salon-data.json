@@ -1,0 +1,130 @@
+{
+  "checked": "2026-11-10",
+  "organizationId": "1209085669",
+  "name": "Ассоль",
+  "address": "Липецк, ул. Бунина, 10",
+  "phone": "+79046918851",
+  "hours": "Ежедневно, 09:00–19:00",
+  "coordinates": [
+    39.51928,
+    52.582131
+  ],
+  "source": "https://yandex.ru/maps/org/assol/1209085669/",
+  "pricesSource": "https://yandex.ru/maps/org/assol/1209085669/prices/",
+  "reviewsSource": "https://yandex.ru/maps/org/assol/1209085669/reviews/",
+  "services": [
+    {
+      "id": "cut",
+      "name": "Женская стрижка",
+      "price": "600–850 ₽",
+      "description": "Стоимость зависит от длины волос и сложности стрижки.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/prices/"
+    },
+    {
+      "id": "men",
+      "name": "Мужская стрижка",
+      "price": "450–700 ₽",
+      "description": "Диапазон указан в разделе особенностей карточки салона.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/"
+    },
+    {
+      "id": "color",
+      "name": "Окрашивание в один тон",
+      "price": "2 000–3 000 ₽",
+      "description": "Точная стоимость зависит от длины и плотности волос.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/prices/"
+    },
+    {
+      "id": "highlights",
+      "name": "Мелирование волос",
+      "price": "2 500–4 500 ₽",
+      "description": "Точная стоимость зависит от длины и плотности волос.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/prices/"
+    },
+    {
+      "id": "airtouch",
+      "name": "Окрашивание Airtouch",
+      "price": "3 000–9 000 ₽",
+      "description": "Точная стоимость зависит от длины и плотности волос.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/prices/"
+    },
+    {
+      "id": "mix",
+      "name": "Колорирование",
+      "price": "3 500–7 000 ₽",
+      "description": "Точная стоимость зависит от длины и плотности волос.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/prices/"
+    },
+    {
+      "id": "nails",
+      "name": "Маникюр с покрытием",
+      "price": "1 600 ₽",
+      "description": "Стоимость услуги опубликована владельцем в карточке салона.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/prices/"
+    },
+    {
+      "id": "feet",
+      "name": "Педикюр с покрытием",
+      "price": "1 700 ₽",
+      "description": "Стоимость услуги опубликована владельцем в карточке салона.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/prices/"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Егорик",
+      "date": "2026-10-05",
+      "rating": 5,
+      "reviewId": "FUZUg0a5bbvPVRS8NDYsCwM2zULxaLcX",
+      "excerpt": "Прекрасные мастера, в особенности хочу подчеркнуть мастера Наталью - профессионал своего дела, при том универсал (и по мужским прическам, и по женским).",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/reviews/",
+      "url": "https://yandex.ru/maps/org/assol/1209085669/reviews/?reviews%5BreviewId%5D=FUZUg0a5bbvPVRS8NDYsCwM2zULxaLcX"
+    },
+    {
+      "author": "evu",
+      "date": "2026-09-28",
+      "rating": 5,
+      "reviewId": "AAw05F1RMCFigOaHvRUCg1pwe_nKXv",
+      "excerpt": "Приветливый персонал, чистая и приятная студия красоты.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/reviews/",
+      "url": "https://yandex.ru/maps/org/assol/1209085669/reviews/?reviews%5BreviewId%5D=AAw05F1RMCFigOaHvRUCg1pwe_nKXv"
+    },
+    {
+      "author": "Ольга Б.",
+      "date": "2026-10-03",
+      "rating": 5,
+      "reviewId": "ZFakjeUZMsmuF1a6aI2kG5cfkR2ogx",
+      "excerpt": "Во-вторых, атмосфера в салоне просто замечательная – чисто, уютно и дружелюбно.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/reviews/",
+      "url": "https://yandex.ru/maps/org/assol/1209085669/reviews/?reviews%5BreviewId%5D=ZFakjeUZMsmuF1a6aI2kG5cfkR2ogx"
+    },
+    {
+      "author": "Галина С.",
+      "date": "2026-10-10",
+      "rating": 5,
+      "reviewId": "93lHh-xwJeDt-5jpO3I_sneoJ9TcjZ",
+      "excerpt": "Очень приятная,  уютная обстановка.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/reviews/",
+      "url": "https://yandex.ru/maps/org/assol/1209085669/reviews/?reviews%5BreviewId%5D=93lHh-xwJeDt-5jpO3I_sneoJ9TcjZ"
+    },
+    {
+      "author": "Олеся Абдул",
+      "date": "2026-10-19",
+      "rating": 5,
+      "reviewId": "nLy5pwY5DQlHzM7La_DQ7CJ3luYnyg",
+      "excerpt": "Салон красоты \"Ассоль\"— это то место, где хочется оставаться дольше.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/reviews/",
+      "url": "https://yandex.ru/maps/org/assol/1209085669/reviews/?reviews%5BreviewId%5D=nLy5pwY5DQlHzM7La_DQ7CJ3luYnyg"
+    },
+    {
+      "author": "Полина Т.",
+      "date": "2026-09-23",
+      "rating": 5,
+      "reviewId": "19SATKxUcf5x-cg36UnDM2wuiJTnAi4",
+      "excerpt": "Мастер Татьяна очень ответственно подходит к работе, идеально подбирает оттенок краски, всегда обговариваем все детали, всё очень нравится.",
+      "source": "https://yandex.ru/maps/org/assol/1209085669/reviews/",
+      "url": "https://yandex.ru/maps/org/assol/1209085669/reviews/?reviews%5BreviewId%5D=19SATKxUcf5x-cg36UnDM2wuiJTnAi4"
+    }
+  ],
+  "notes": "Отзывы — вручную проверенная положительная подборка, не все отзывы. Цены — снимок карточки, не автоматическая синхронизация. В подробной карточке женской стрижки указан диапазон 600–850 ₽, в особенностях 600–900 ₽; выбран диапазон подробной карточки услуги. Длительность услуг в карточке не указана."
+}

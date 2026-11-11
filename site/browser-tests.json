@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-10T14:23:29.060Z",
+  "browser": "Chromium 156.0.8078.79",
+  "method": "Local files fulfilled through Playwright HTTP route; no external server or preview relay",
+  "widths": [
+    {
+      "width": 360,
+      "overflow": false,
+      "images": true,
+      "fonts": true,
+      "booking": true,
+      "validation": true,
+      "back_state": true,
+      "escape": true,
+      "keyboard_trap": true,
+      "faq": true,
+      "reduced_motion_static": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "fonts": true,
+      "booking": true,
+      "validation": true,
+      "back_state": true,
+      "escape": true,
+      "keyboard_trap": true,
+      "faq": true,
+      "reduced_motion_static": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "images": true,
+      "fonts": true,
+      "booking": true,
+      "validation": true,
+      "back_state": true,
+      "escape": true,
+      "keyboard_trap": true,
+      "faq": true,
+      "reduced_motion_static": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "fonts": true,
+      "booking": true,
+      "validation": true,
+      "back_state": true,
+      "escape": true,
+      "keyboard_trap": true,
+      "faq": true,
+      "reduced_motion_static": true
+    }
+  ],
+  "threeD": {
+    "load": true,
+    "pause_resume": true,
+    "offscreen_pause": true,
+    "reduced_motion_dispose": true,
+    "no_webgl_static": true
+  },
+  "pageErrors": [],
+  "case_widths": [
+    360,
+    390,
+    768,
+    1440
+  ],
+  "case_overflow": false,
+  "video_recorded": true
+}

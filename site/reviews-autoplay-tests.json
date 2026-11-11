@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-11T14:15:13.249Z",
+  "intervalMs": 4500,
+  "scope": "Reviews only. Existing salon design, form, photos and integrations unchanged.",
+  "results": [
+    {
+      "width": 360,
+      "automaticNextWithoutClicks": true,
+      "pointerDoesNotStop": "touch tested",
+      "normalModeArrowsHidden": true,
+      "keyboardFocusSupported": "not repeated",
+      "offscreenStops": true,
+      "returnResumes": true,
+      "reducedMotionStaticWithControls": true,
+      "oneActiveReview": true,
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "automaticNextWithoutClicks": true,
+      "pointerDoesNotStop": "touch tested",
+      "normalModeArrowsHidden": true,
+      "keyboardFocusSupported": "not repeated",
+      "offscreenStops": true,
+      "returnResumes": true,
+      "reducedMotionStaticWithControls": true,
+      "oneActiveReview": true,
+      "pageErrors": []
+    },
+    {
+      "width": 768,
+      "automaticNextWithoutClicks": true,
+      "pointerDoesNotStop": "hover tested",
+      "normalModeArrowsHidden": true,
+      "keyboardFocusSupported": "not repeated",
+      "offscreenStops": true,
+      "returnResumes": true,
+      "reducedMotionStaticWithControls": true,
+      "oneActiveReview": true,
+      "pageErrors": []
+    },
+    {
+      "width": 1440,
+      "automaticNextWithoutClicks": true,
+      "pointerDoesNotStop": "hover tested",
+      "normalModeArrowsHidden": true,
+      "keyboardFocusSupported": "tested",
+      "offscreenStops": true,
+      "returnResumes": true,
+      "reducedMotionStaticWithControls": true,
+      "oneActiveReview": true,
+      "pageErrors": []
+    }
+  ]
+}

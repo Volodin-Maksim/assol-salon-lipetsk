@@ -1,0 +1,3 @@
+Source commit: b40acb32b0cb66253e8a410afc915e3fc64b2fba
+Prepared: 2026-11-11
+Latest site fixes included; prepared for GitHub Pages deployment.
